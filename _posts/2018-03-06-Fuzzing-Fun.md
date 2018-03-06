@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fuzzing Fun
-tags: AFL, fuzzing, blaze, bourbon
+tags: AFL fuzzing blaze bourbon
 ---
 
 The [American Fuzzy Lop](http://lcamtuf.coredump.cx/afl/) is an interesting beast. It feeds on power and free processor cores and poops crashes. 

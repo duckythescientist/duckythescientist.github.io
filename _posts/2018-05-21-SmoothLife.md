@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SmoothLife in Python with Numpy
-tags: python life gol conway numpy
+tags: python life gol conway numpy smoothlife
 ---
 
 "Generalization of Conway's "Game of Life" to a continuous domain - SmoothLife". Written in Python using `numpy` and explained (hopefully) without too much fancy math.

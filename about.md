@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm Duck. I do Hardware, Software, and Security things.
+I'm Duck. I do Hardware, Software, RF, and Security things.
 
 ### More Information
 
-todo....
+I'm actually unemployed right now. I'm looking for work but in no real rush to find it.
 
 ### Contact me
 
-todo....
+<duck@duck.ninja>
